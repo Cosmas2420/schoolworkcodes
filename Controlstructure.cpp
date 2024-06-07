@@ -1,4 +1,4 @@
-/*Sequence: This is the default control structure,
+Sequence: This is the default control structure,
  where statements are executed in the order they appear.
 
 Selection: Selection structures allow the program to make decisions and execute
